@@ -6,3 +6,4 @@ IDE used is Code::Blocks. Click [allegro-mingw-gcc6.2.0-x86-static-5.2.2.zip](ht
 After finish downloading, Un-zip the file and move it to your C drive. The full path should look like: `C:\allegro-mingw-gcc6.2.0-x86-static-5.2.2\allegro`. After that see the [codeblocks allegro setting tutorial](/codeblocks%20allegro%20setting%20tutorial.txt) and modify the project's build settings so that the allegro library can be used.  
 
 # Screenshots
+!(/Game%20screenshots/sc_1.jpg)
